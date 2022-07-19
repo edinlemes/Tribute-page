@@ -1,0 +1,77 @@
+
+
+#title {
+    text-align: center;
+    margin: auto;
+    height: 5em;
+    color: #31906E;
+}
+
+body {
+    font-size: 1.5em;
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #222;
+    width: 100%;
+    margin: unset;
+    background-color: #3A3B3C;
+    color:white;
+}
+#img-div {
+    margin: 0;
+    width: 100%;
+    margin: 0;
+}
+#img-div h3 {
+    text-align: center;
+    margin: auto;
+
+}
+
+#image {
+    height: auto;
+    max-width: 100%;
+    align-items: center;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+#tribute-info {
+    background-color: black;
+    text-align: center;
+    padding: 0 20%;
+    border: 0;
+    width: auto;
+}
+#tribute-info h2 {
+    color: #31906E;
+}
+
+.bio {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+.end, .end a {
+    text-decoration: none;
+    color: #31906E;
+    font-size: 1.2rem;
+}
+
+footer, footer a {
+    text-align: center;
+    text-decoration: none;
+    color:#2E8B57;
+    font-size: 1rem;
+}
+.divider {
+    border-style: solid;
+    width: 50%;
+    border-color: aliceblue;
+    margin: auto;
+    border-width: 2px;
+    border-radius: 5px;
+}
